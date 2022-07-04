@@ -81,3 +81,9 @@ footer p{
     text-align: center;
     color: black;
 }
+.experience-sec{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+
+}
